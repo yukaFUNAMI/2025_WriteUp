@@ -1,8 +1,6 @@
 ## THM_Lookup
 https://tryhackme.com/room/lookup
 
-![image](https://github.com/user-attachments/assets/d267a808-be76-4ef7-85e3-dd5a371e8f83)
-
 ### 🚩User
 ![image](https://github.com/user-attachments/assets/a1fe0497-1056-4a48-a64b-b8931de06d7e)
 
